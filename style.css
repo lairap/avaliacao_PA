@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -14,27 +19,54 @@ body {
 
   }
 
-  li a{
+  /* li a{
     font-size: 21px;
   }
 
   li a:hover{
     
     color: #b5a2eb;
-  }
+  } */
 
   header {
-    
-    background-color: #9d86d3;
-    color: #fff;
-    padding: 10px 0;
+    position: absolute;
+    top: 0;
+    right: -100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+    align-items: center;
   }
   
   header nav {
     float: right; /* Alinha a navegação à direita */
   }
+
+  header ul{
+    display: flex;
+    justify-content: center;
+  }
+
+  header ul li {
+    list-style: none;
+    margin-left: 50px;
+  }
+
+  header ul li a {
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff;
+    border-radius: 20px;
+  }
+
+  header ul li a:hover {
+    background: #fff;
+    color: #563d96;
+  }
+
   
-  header nav ul {
+  /* header nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -42,14 +74,15 @@ body {
   
   header nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
   }
   
   header nav ul li a {
     color: #fff;
-    text-decoration: none;
-  }
+    text-decoration: none; */
+  /* } */
   #logo img {
+    
     width: 80px;
   }
   
