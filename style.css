@@ -83,11 +83,11 @@ body {
   /* } */
   #logo img {
     
-    width: 80px;
+    width: 200px;
   }
   
 body {
-  background-image: url(images/brightpurple.svg);
+  background-image: url(img/brightpurple.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -120,16 +120,32 @@ body {
   
   .btn {
     display: inline-block;
-    background-color: #6b52ae;
+    background-color: #8561c0;
     color: #fff;
-    padding: 15px 30px;
+    padding: 17px 60px;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
   
   .btn:hover {
-    background-color: #563d96;
+    background-color: #7050aa;
+  }
+
+  .Blob{
+    z-index: 1;
+    width: 30%;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+  }
+
+  .Sparkle {
+    z-index: 1;
+    width: 30%;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
   }
   
   /* footer {
