@@ -8,7 +8,10 @@
 }
 body {
     font-family: Arial, sans-serif;
+<<<<<<< HEAD:css/style.css
     background: linear-gradient(to right, #a19bec, #b0a1e7, #d2b2dd, #eebfd4);
+=======
+>>>>>>> 7feff1f6ce16229e456a6ec11f155e5226399375:style.css
     overflow-x: hidden;
   }
   
