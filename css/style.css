@@ -7,8 +7,9 @@
 
 }
 body {
-    margin: 0;
     font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #a19bec, #b0a1e7, #d2b2dd, #eebfd4);
+    overflow-x: hidden;
   }
   
   .container {
@@ -19,19 +20,12 @@ body {
 
   }
 
-  /* li a{
-    font-size: 21px;
-  }
-
-  li a:hover{
-    
-    color: #b5a2eb;
-  } */
 
   header {
+    font-family: "Montserrat";
     position: absolute;
     top: 0;
-    right: -100px;
+    right: -170px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -50,47 +44,34 @@ body {
 
   header ul li {
     list-style: none;
-    margin-left: 50px;
+    margin-left: 20px;
   }
 
   header ul li a {
     text-decoration: none;
-    padding: 6px 15px;
-    color: #fff;
-    border-radius: 20px;
+    padding: 12px 40px;
+    color: #ffffff;
+    border-radius: 14px;
   }
 
   header ul li a:hover {
-    background: #fff;
+    background: #ffffff;
     color: #563d96;
+
   }
 
-  
-  /* header nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header nav ul li {
-    display: inline;
-    margin-right: 10px;
-  }
-  
-  header nav ul li a {
-    color: #fff;
-    text-decoration: none; */
-  /* } */
   #logo img {
     
     width: 200px;
   }
   
-body {
-  background-image: url(img/brightpurple.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+/* body { */
+  /* position: initial; */
+  /* background-image: url(img/brightpurple.png); */
+
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+/* } */
 
   #hero {
     text-align: center;
@@ -119,6 +100,7 @@ body {
   }
   
   .btn {
+    font-family: "Montserrat";
     display: inline-block;
     background-color: #8561c0;
     color: #fff;
