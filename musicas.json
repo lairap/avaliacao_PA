@@ -1,0 +1,232 @@
+{
+    "0": {
+        "musica":{ 
+        "nome": "Meditação Guiada 5 Minutos",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MEDITAÇÃOGUIADA5MINUTOS_RÁPIDOEEFICAZBOMDEMAIS-YogaMudraRaissaZoccal.mp3"
+            }
+    },
+
+    "1": {
+        "musica":{
+        "nome": "Autoconfiança, Autoestima e Perseverança",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/AUTOCONFIANÇAAUTOESTIMAEPERSEVERANÇA-YogaMudraRaissaZoccal.mp3"
+        }
+    },
+
+    "2": {
+        "musica":{
+        "nome": "Receba Bênçãos Divinas",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MEDITAÇÃO-RECEBABÊNÇÃOSDIVINAS-YogaMudraRaissaZoccal.mp3"
+        }
+    },
+
+    "3": {
+        "musica": {
+        "nome": "Meditação Guiada Para Acalmar Seu Dia",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/Meditação5MINUTOSparaTRANSFORMAR_ACALMARSEUDIA-YogaMudraRaissaZoccal.mp3"
+        }
+    },
+
+    "4": {
+        "musica": {
+        "nome": "Técnica para Acalmar a Mente em minutos",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/TecnicaparaACALMARaMENTEemminutos-YogaMudraRaissaZoccal.mp3"
+        }
+    },
+
+    "5": {
+        "musica": {
+        "nome": "Meditação da manhã - AME-SE",
+        "artista": "Meditar para Despertar" ,
+        "album":{
+            "imagem":"imagens-musica/meditar para despertar.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MEDITAÇÃODAMANHÃ_AME-SE(OS5MINUTOSMAISPRECIOSOSDOSEUDIA)-MeditarparaDespertar.mp3"
+        }
+    },
+
+    "6": {
+        "musica": {
+        "nome": "Meditação Guiada 5 Minutos - Bem Estar, Equilibrio",
+        "artista": "Meditar para Despertar" ,
+        "album":{
+            "imagem":"imagens-musica/meditar para despertar.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MEDITAÇÃOGUIADA_5MINUTOSDEBEMESTAREQUILÍBRIOETRANQUILIDADE-MeditarparaDespertar.mp3"
+        }
+    },
+
+    "7": {
+        "musica": {
+        "nome": "Música Para Gratidão",
+        "artista": "Minuto Medite" ,
+        "album":{
+            "imagem":"imagens-musica/minutomedite.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MúsicaparaGratidãoPratiqueem5minutosMinutoMedite.mp3"
+        }
+    },
+
+    "8": {
+        "musica": { 
+        "nome": "Deep Sleep Music, 5 Min",
+        "artista": "Meditate" ,
+        "album":{
+            "imagem":"imagens-musica/meditate.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/deepsleepmusic5mindeepsleeprelaxingmusicforsleeping-Meditate.mp3"
+        }
+    },
+
+    "9": {
+        "musica":{ 
+        "nome": "Música Para Meditar",
+        "artista": "Sons Para Ti" ,
+        "album":{
+            "imagem":"imagens-musica/sonsprati.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MÚSICAPARAMEDITAR-5MINUTOSSonsPraTi.mp3"
+        }
+    },
+
+    "10": {
+        "musica":{ 
+        "nome": "Música Para Meditar 528 hertz",
+        "artista": "Yoga Mudra Raissa Zoccal" ,
+        "album":{
+            "imagem":"imagens-musica/Yoga Mudra Raissa Zoccal.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MUSICAparaMEDITAR528hertzYogaMudraRaissaZoccal.mp3"
+        }
+    },
+
+    
+    "11": {
+        "musica":{ 
+        "nome": "5 Minute Mindfulness",
+        "artista": "Great Meditation" ,
+        "album":{
+            "imagem":"imagens-musica/greatmeditation.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/5MinuteMindfulnessMeditationGreatMeditation.mp3"
+        }
+    },
+
+    "12": {
+        "musica":{ 
+        "nome": "Relax With Pusheen",
+        "artista": "Pusheen The Cat" ,
+        "album":{
+            "imagem":"imagens-musica/pusheenthecat.png",
+            "titulo":""
+                },
+        "mp3": "musicas/RelaxWithPusheencalmingmusic.mp3"
+        }
+    },
+
+    "13": {
+        "musica":{ 
+        "nome": "5 Minute Meditation Before Sleep",
+        "artista": "Great Meditation" ,
+        "album":{
+            "imagem":"imagens-musica/greatmeditation.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/5MinuteMeditationBeforeSleep.mp3"
+        }
+    },
+
+    "14": {
+        "musica":{ 
+        "nome": "5 Minutes Jazz Music for Relaxing",
+        "artista": "Positive Paramout" ,
+        "album":{
+            "imagem":"imagens-musica/positiveparamount.png",
+            "titulo":""
+                },
+        "mp3": "musicas/5MinutesJazzMusicforRelaxing.mp3"
+        }
+    },
+
+    "15": {
+        "musica":{ 
+        "nome": "Meditação da manhã - Auto Cuidado",
+        "artista": "Meditar para Despertar" ,
+        "album":{
+            "imagem":"imagens-musica/meditar para despertar.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MEDITAÇÃODAMANHÃ_MINUTOSDEAUTOCUIDADO.mp3"
+        }
+    },
+
+    "16": {
+        "musica":{ 
+        "nome": "10 Minutes Relaxing Smooth Jazz",
+        "artista": "Chillaxation" ,
+        "album":{
+            "imagem":"imagens-musica/chillaxation.png",
+            "titulo":""
+                },
+        "mp3": "musicas/10MinutesRelaxingSmoothJazzMusic.mp3"
+        }
+    },
+
+    "17": {
+        "musica":{ 
+        "nome": "5 minutos Meditação Guiada para Autenticidade",
+        "artista": "Fernanda Santos Yoga" ,
+        "album":{
+            "imagem":"imagens-musica/fernandasantosyoga.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/5minutosMeditaçãoGuiadaparaAutenticidade.mp3"
+        }
+    },
+
+    
+    "18": {
+        "musica":{ 
+        "nome": "Meditacao direta e Profunda",
+        "artista": "Yoga para Voce" ,
+        "album":{
+            "imagem":"imagens-musica/yogaparavoce.jpg",
+            "titulo":""
+                },
+        "mp3": "musicas/MeditaçãoGuiada5minutosDiretaeprofunda_MindfulnessYogaparaVocê.mp3"
+        }
+    }
+
+}
